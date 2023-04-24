@@ -31,7 +31,9 @@
     height: 64px;
     width: 64px;
     margin-right: 10px;
+    margin-bottom: 25px;
     display: inline-block;
+    
 }
 
 .Weather .temperature {
