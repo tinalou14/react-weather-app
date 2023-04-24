@@ -1,4 +1,3 @@
-import react from "react";
 import Weather from "./Weather";
 import './App.css';
 
@@ -11,7 +10,7 @@ export default function App(){
     <footer>
       This project was coded by Tina Cooke and is {" "}
       <a href="https://github.com/tinalou14/react-weather-app"
-      target="_blank"
+      target="_blank" rel="noreferrer"
       >
         open-sourced on GitHub
       </a>
