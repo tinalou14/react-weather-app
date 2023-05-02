@@ -10,7 +10,11 @@
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^2.1.8",
+>>>>>>> parent of 8077fba (Revert "changed img to canvas on weather css")
     "web-vitals": "^2.1.4"
   },
   "scripts": {
