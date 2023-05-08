@@ -9,16 +9,13 @@
     "axios": "^1.3.6",
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
+    "react-animated-weather": "^4.0.1",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
-    "react-scripts": "5.0.1",
-=======
-    "react-scripts": "^2.1.8",
->>>>>>> parent of 8077fba (Revert "changed img to canvas on weather css")
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts  --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
