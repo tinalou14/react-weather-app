@@ -13,7 +13,10 @@ export default function App(){
       target="_blank" rel="noreferrer"
       >
         open-sourced on GitHub
-      </a>
+      </a> and {" "}
+      <a href="https://sunny-stroopwafel-f1622d.netlify.app/"
+      target="_blank" rel="noreferrer">
+        hosted on Netlify</a>
       </footer>  
       </div>
     </div>
