@@ -10,12 +10,12 @@ export default function App(){
     <footer>
       This project was coded by Tina Cooke and is {" "}
       <a href="https://github.com/tinalou14/react-weather-app"
-      target="_blank" rel="noreferrer"
+      target="_blank" rel="noopener noreferrer"
       >
         open-sourced on GitHub
       </a> and {" "}
       <a href="https://sunny-stroopwafel-f1622d.netlify.app/"
-      target="_blank" rel="noreferrer">
+      target="_blank" rel="noopener noreferrer">
         hosted on Netlify</a>
       </footer>  
       </div>
